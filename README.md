@@ -14,4 +14,4 @@ Add ```-NoVerify``` argument on your launch options.
 
 # GUI (Bind: RShift)
 
-![image](https://github.com/IseyitThe/Krypton-Plus/blob/main/GUI.png?raw=true)
+![image](https://github.com/FrexiikWare/Krypton-Plus/blob/main/GUI.png?raw=true)
